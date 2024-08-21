@@ -1,6 +1,6 @@
 # BASICS
 
-#EXPERIMENT 1 Downloading VS code ,(hello world program)
+EXPERIMENT 1 Downloading VS code ,(hello world program)
 # Download VS Code Installer:
 
 ### Step 1: -
