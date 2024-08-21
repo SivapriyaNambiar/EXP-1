@@ -25,7 +25,7 @@ Click the "Install" button to start the installation process. The installer will
 Launch VS Code:
 Once the installation is complete, you’ll see a final screen with an option to launch Visual Studio Code. Ensure this box is checked and click "Finish".
 
-# EXPERIMENT-1a:
+# EXPERIMENT-1:
 ## Aim:
 Printing “Hello World”
 
